@@ -1,4 +1,4 @@
-![header img](CodyDeLaTorre/De La Torre (1).png)
+![header3](https://user-images.githubusercontent.com/103235685/210416882-474ee79c-90fd-490d-9130-d47de20395d0.png)
 
 Hi I'm Cody, I'm 23 and I am just starting my adventure in coding and software development!
 
