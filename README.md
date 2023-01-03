@@ -8,4 +8,4 @@ I started learning JavaScript with the Galavnize coding bootcamp prep in April 2
 
 I started learning html and CSS through freecodecamp in September 2022
 
-I started the Code Fellows Software Development Boot Camp in September 2022 where I expect my Advance Software Development in Pyhton Certificate in February 2023
+I started the Code Fellows Software Development Boot Camp in September 2022 where I expect my Advance Software Development in Python Certificate February 2023
