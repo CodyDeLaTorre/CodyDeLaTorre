@@ -1,4 +1,4 @@
-![header img]()
+![header img](De La Torre (1).png)
 
 Hi I'm Cody, I'm 23 and I am just starting my adventure in coding and software development!
 
