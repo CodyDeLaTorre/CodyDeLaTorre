@@ -8,3 +8,6 @@ Hi I'm Cody, welcome to my adventure in coding and software development!
 - I started the Code Fellows Software Development Boot Camp in September 2022 where I expect my Advance Software Development in Python Certificate February 2023
 - Started working as a Software Test Engineer with Sentar March 2023
 - Started Learning C++ and Gtest March 2023
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodydeLaTorre&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
