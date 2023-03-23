@@ -10,4 +10,4 @@ Hi I'm Cody, welcome to my adventure in coding and software development!
 - Started Learning C++ and Gtest March 2023
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodydeLaTorre&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+![Cody's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodyDeLaTorre&show_icons=true&theme=dark)
